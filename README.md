@@ -8,7 +8,7 @@ Collecting things about important concepts, websites and books along the way!
 |:--------:|:----------:|
 |[Design Patterns in Modern C++](https://link.springer.com/book/10.1007/978-1-4842-3603-1)| Dmitri Nesteruk |
 
-## Websites
+## Web
 
 ### Tools
 
@@ -19,8 +19,19 @@ Collecting things about important concepts, websites and books along the way!
 
 ### Information
 
-|                                          **Name**                                          |  **Type**   |
-|:------------------------------------------------------------------------------------------:|:-----------:|
-|                      [cpp reference](https://en.cppreference.com/w/)                       |    Docs     |
-|                        [C++ By Example](https://cppbyexample.com/)                         |  Examples   |
-|        [Hacking C++](https://hackingcpp.com/cpp/cheat_sheets.html)                         | Cheatsheets |
+|                                              **Name**                                              |  **Type**   |
+|:--------------------------------------------------------------------------------------------------:|:-----------:|
+|                          [cpp reference](https://en.cppreference.com/w/)                           |    Docs     |
+|                            [C++ By Example](https://cppbyexample.com/)                             |  Examples   |
+|                    [Hacking C++](https://hackingcpp.com/cpp/cheat_sheets.html)                     | Cheatsheets |
+|                      [Modern Cmake](https://cliutils.gitlab.io/modern-cmake/)                      |  Free Book  |
+
+### Blogs
+
+|                   **Name**                    | **Author's** |
+|:---------------------------------------------:|:------------:|
+| [Timur.Audio](https://timur.audio/) | Timur Dumler |
+
+## Libs
+- [Cinder](https://github.com/cinder/Cinder) Creative Coding<br>
+- [inqlude](https://inqlude.org/) Qt library archive<br>
