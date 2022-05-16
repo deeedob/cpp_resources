@@ -19,12 +19,13 @@ Collecting things about important concepts, websites and books along the way!
 
 ### Information
 
-|                                              **Name**                                              |  **Type**   |
-|:--------------------------------------------------------------------------------------------------:|:-----------:|
-|                          [cpp reference](https://en.cppreference.com/w/)                           |    Docs     |
-|                            [C++ By Example](https://cppbyexample.com/)                             |  Examples   |
-|                    [Hacking C++](https://hackingcpp.com/cpp/cheat_sheets.html)                     | Cheatsheets |
-|                      [Modern Cmake](https://cliutils.gitlab.io/modern-cmake/)                      |  Free Book  |
+|                                         **Name**                                          |  **Type**   |
+|:-----------------------------------------------------------------------------------------:|:-----------:|
+|                      [cpp reference](https://en.cppreference.com/w/)                      |    Docs     |
+|                        [C++ By Example](https://cppbyexample.com/)                        |  Examples   |
+|                [Hacking C++](https://hackingcpp.com/cpp/cheat_sheets.html)                | Cheatsheets |
+|                 [Modern Cmake](https://cliutils.gitlab.io/modern-cmake/)                  |  Free Book  |
+|                     [Bare Metal C++](https://alex-robenko.gitbook.io)                     |  Embedded   |
 
 ### Blogs
 
