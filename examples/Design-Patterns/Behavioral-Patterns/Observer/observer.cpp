@@ -11,7 +11,6 @@ struct Observer {
     virtual void emit( T &src ) = 0;
 };
 
-/**/
 template<typename T>
 struct Observable {
 public:

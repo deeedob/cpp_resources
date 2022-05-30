@@ -1,5 +1,8 @@
 #include <iostream>
 
+/*
+ * C# like getters and setters with clang!
+ * */
 class Person {
     int age_;
 public:
